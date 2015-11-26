@@ -1,4 +1,4 @@
-## 3.0 - Front-end Configuration
+## 3.0 — Front-end — Configuration
 
 The `forum.frontend` config file defines the controllers used by the package as well as a closure used to process alert messages to be displayed to the user.
 

@@ -1,8 +1,8 @@
-## Compatibility
+## 1.0 —  Installation
+
+### Compatibility
 
 This version is written for Laravel 4.x. See [2.0](2.0/installation.md) or [3.0](3.0/installation.md) for Laravel 5.x.
-
-## Installation
 
 ### Step 1: Install the package
 

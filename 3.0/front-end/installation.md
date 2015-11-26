@@ -1,4 +1,4 @@
-## 3.0 - Front-end Installation
+## 3.0 — Front-end — Installation
 
 ### Step 1: Install the package
 

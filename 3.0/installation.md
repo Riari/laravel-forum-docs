@@ -1,4 +1,4 @@
-## 3.0 - Installation
+## 3.0 — Installation
 
 ### Step 1: Install the package
 
