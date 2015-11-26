@@ -1,4 +1,4 @@
-## Features
+## 3.0 - Features
 
 **Core ([Riari/laravel-forum](https://github.com/Riari/laravel-forum))**
 
