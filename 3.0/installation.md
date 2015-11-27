@@ -14,7 +14,7 @@ Then add the service provider to your `config/app.php`:
 'Riari\Forum\ForumServiceProvider',
 ```
 
-Installing the [standard front-end](https://github.com/Riari/laravel-forum-frontend) is recommended.
+Installing the [front-end](3.0/front-end/introduction.md) is recommended.
 
 ### Step 2: Publish the package files
 
