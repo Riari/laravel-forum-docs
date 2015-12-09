@@ -1,4 +1,4 @@
-## 3.0 — Installation
+## 3.x — Installation
 
 ### Step 1: Install the package
 
@@ -14,7 +14,7 @@ Then add the service provider to your `config/app.php`:
 'Riari\Forum\ForumServiceProvider',
 ```
 
-Installing the [front-end](3.0/front-end/introduction.md) is recommended.
+Installing the [front-end](3.x/front-end/introduction.md) is recommended.
 
 ### Step 2: Publish the package files
 

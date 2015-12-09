@@ -1,4 +1,4 @@
-## 3.0 — Configuration
+## 3.x — Configuration
 
 ### Server
 
@@ -10,7 +10,7 @@ There are 5 configuration files in this version; **api**, **integration**, **pre
 
 #### API
 
-* `token`: A random string used to authenticate API requests. This is used by the [API dispatcher](3.0/api/internal-dispatching.md) and is by default set to a random 32-character string to maximise security on a fresh install.
+* `token`: A random string used to authenticate API requests. This is used by the [API dispatcher](3.x/api/internal-dispatching.md) and is by default set to a random 32-character string to maximise security on a fresh install.
 
 #### Integration
 

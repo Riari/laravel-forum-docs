@@ -1,4 +1,4 @@
-## 2.0 — Configuration
+## 2.x — Configuration
 
 There are 4 configuration files in this version; **integration**, **permissions**, **preferences** and **routing**. They should already be published to `app/config/forum.{config key}.php` after running `php artisan vendor:publish` as part of the installation.
 

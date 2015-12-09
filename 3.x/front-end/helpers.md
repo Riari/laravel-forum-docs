@@ -1,4 +1,4 @@
-## 3.0 — Front-end — Helpers
+## 3.x — Front-end — Helpers
 
 The front-end makes use of a utility class (specified in the `forum.frontend.utility_class` config value) to facilitate a few common actions. This is automatically aliased to `Forum` for ease of use in views.
 
@@ -8,7 +8,7 @@ The front-end makes use of a utility class (specified in the `forum.frontend.uti
 Forum::alert('success', 'categories.updated', $categories->count());
 ```
 
-Flashes alert messages to the session to be displayed on the next request. Note that validation messages are independent of this and follow [Laravel's convention](http://laravel.com/docs/5.1/validation#working-with-error-messages); in this context, alerts are 'success' or 'warning' messages.
+Flashes alert messages to the session to be displayed on the next request. Note that validation messages are independent of this and follow [Laravel's convention](http://laravel.com/docs/5.1/validation#working-with-error-messages); in this context, alerts are forum-specific 'success' or 'warning' messages.
 
 ### Render
 

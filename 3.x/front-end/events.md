@@ -1,4 +1,4 @@
-## 3.0 — Front-end — Events
+## 3.x — Front-end — Events
 
 Events provided by the front-end cover some basic user interaction scenarios and implement standard [Laravel Events](http://laravel.com/docs/5.1/events).
 

@@ -1,4 +1,4 @@
-## 3.0 — Front-end — Management
+## 3.x — Front-end — Management
 
 ### Categories
 

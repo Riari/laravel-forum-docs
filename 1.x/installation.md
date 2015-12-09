@@ -1,15 +1,15 @@
-## 1.0 — Installation
+## 1.x — Installation
 
 ### Compatibility
 
-This version is written for Laravel 4.x. See [2.0](2.0/installation.md) or [3.0](3.0/installation.md) for Laravel 5.x.
+This version is written for Laravel 4.x. See [2.x](2.x/installation.md) or [3.x](3.x/installation.md) for Laravel 5.x.
 
 ### Step 1: Install the package
 
 Install the package via composer:
 
 ```
-composer require riari/laravel-forum:~1.0
+composer require riari/laravel-forum:~1.x
 ```
 
 Then add the following service provider to your app/config/app.php:

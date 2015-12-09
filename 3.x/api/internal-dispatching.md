@@ -1,6 +1,6 @@
-## 3.0 — API — Internal Dispatching
+## 3.x — API — Internal Dispatching
 
-[laravel-forum 3.0](https://github.com/Riari/laravel-forum) enables dispatching requests to the API from any part of your application. The dispatcher consists of two parts; the dispatcher class itself and a 'receiver' interface to ensure proper response handling.
+[laravel-forum 3.x](https://github.com/Riari/laravel-forum) enables dispatching requests to the API from any part of your application. The dispatcher consists of two parts; the dispatcher class itself and a 'receiver' interface to ensure proper response handling.
 
 The dispatcher is available at `Riari\Forum\API\Dispatcher` and should be instantiated with the class that will handle responses from it:
 
@@ -24,7 +24,7 @@ In this case, `$receiver` should be an instance of a class implementing `\Riari\
     }
 ```
 
-As an example, the optional [front-end](3.0/front-end/introduction.md) package uses the following:
+As an example, the optional [front-end](3.x/front-end/introduction.md) package uses the following:
 
 ```
     /**

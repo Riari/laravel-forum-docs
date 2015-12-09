@@ -1,4 +1,4 @@
-## 3.0 — API — Threads
+## 3.x — API — Threads
 
 ### Index
 
@@ -6,7 +6,7 @@
 GET <root>/api/thread
 ```
 
-Returns a collection of threads, optionally narrowed down by [request scopes](3.0/api/request-scopes.md) and/or `category_id`.
+Returns a collection of threads, optionally narrowed down by [request scopes](3.x/api/request-scopes.md) and/or `category_id`.
 
 ### Index New
 

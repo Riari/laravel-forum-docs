@@ -10,12 +10,12 @@ The repository is hosted on github at [https://github.com/Riari/laravel-forum](h
 
 ### Demo
 
-You can view a simple demo of 3.0 online at [http://laravel-forum.teamteatime.net/](http://laravel-forum.teamteatime.net/). The demo source is available at [https://github.com/Team-Tea-Time/laravel-forum-demo](https://github.com/Team-Tea-Time/laravel-forum-demo).
+You can view a simple demo of 3.x online at [http://laravel-forum.teamteatime.net/](http://laravel-forum.teamteatime.net/). The demo source is available at [https://github.com/Team-Tea-Time/laravel-forum-demo](https://github.com/Team-Tea-Time/laravel-forum-demo).
 
 ### Project Scope
 
 Laravel Forum is designed to be as lean as possible while still providing a powerful foundation for building forums with minimal effort. As such, certain types of feature won't be considered for future releases; these include text editor integrations (e.g. CKEditor), smiley support and attachments, to name a few. Much like Laravel itself, our philosophy is to avoid making assumptions about the design and purpose of the application, only providing fundamental tools with standard integrations where possible.
 
-This is also the justification behind providing the default front-end as a separate package from 3.0 onwards; while it should serve the purpose for most, some developers may prefer to build out their own front-ends using popular JS frameworks such as AngularJS and vue.js.
+This is also the justification behind providing the default front-end as a separate package from 3.x onwards; while it should serve the purpose for most, some developers may prefer to build out their own front-ends using popular JS frameworks such as AngularJS and vue.js.
 
 If you want to make a feature suggestion or contribute towards development but aren't sure about the project's scope, feel free to [open an issue](https://github.com/Riari/laravel-forum/issues/new). Even if we can't accept it as an official feature, you can always write a new package listing laravel-forum as a dependency and include your features in that.

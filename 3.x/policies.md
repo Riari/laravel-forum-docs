@@ -1,4 +1,4 @@
-## 3.0 — Policies
+## 3.x — Policies
 
 Four [Authorization Policies](http://laravel.com/docs/5.1/authorization#policies) are defined to provide default permission checks. You can override them and change the corresponding namespaces specified in the `forum.integration.policies` config value to allow or deny forum abilities to different users.
 
@@ -26,6 +26,10 @@ Methods in this policy accept a `$user` parameter.
 
 ### Category
 
+```
+Riari\Forum\Policies\CategoryPolicy
+```
+
 This policy defines abilities pertaining to individual categories.
 
 Methods in this policy accept `$user` and `$category` parameters.
@@ -45,6 +49,10 @@ Methods in this policy accept `$user` and `$category` parameters.
 
 ### Thread
 
+```
+Riari\Forum\Policies\ThreadPolicy
+```
+
 This policy defines abilities pertaining to individual threads.
 
 Methods in this policy accept `$user` and `$thread` parameters.
@@ -57,6 +65,10 @@ Methods in this policy accept `$user` and `$thread` parameters.
 | `delete`      | Allows deletion of the thread.                       |
 
 ### Post
+
+```
+Riari\Forum\Policies\PostPolicy
+```
 
 This policy defines abilities pertaining to individual posts.
 

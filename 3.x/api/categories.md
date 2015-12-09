@@ -1,4 +1,4 @@
-## 3.0 — API — Categories
+## 3.x — API — Categories
 
 ### Index
 
@@ -6,7 +6,7 @@
 GET <root>/api/category
 ```
 
-Returns a collection of categories, optionally narrowed down by [request scopes](3.0/api/request-scopes.md).
+Returns a collection of categories, optionally narrowed down by [request scopes](3.x/api/request-scopes.md).
 
 ### Store
 

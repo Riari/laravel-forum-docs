@@ -1,6 +1,6 @@
-## 3.0 — API — Introduction
+## 3.x — API — Introduction
 
-[laravel-forum 3.0](https://github.com/Riari/laravel-forum) provides a RESTful API that can be consumed over HTTP or [internally](3.0/api/internal-dispatching.md). It supports multiple [authentication](3.0/api/authentication.md) methods and offers endpoints for creating, querying, modifying and deleting [categories](3.0/api/categories.md), [threads](3.0/api/threads.md) and [posts](3.0/api/posts.md).
+[laravel-forum 3.x](https://github.com/Riari/laravel-forum) provides a RESTful API that can be consumed over HTTP or [internally](3.x/api/internal-dispatching.md). It supports multiple [authentication](3.x/api/authentication.md) methods and offers endpoints for creating, querying, modifying and deleting [categories](3.x/api/categories.md), [threads](3.x/api/threads.md) and [posts](3.x/api/posts.md).
 
 ### Responses
 

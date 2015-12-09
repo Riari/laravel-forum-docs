@@ -1,11 +1,11 @@
-## 2.0 — Installation
+## 2.x — Installation
 
 ### Step 1: Install the package
 
 Install the package via composer:
 
 ```
-composer require riari/laravel-forum:~2.0
+composer require riari/laravel-forum:~2.x
 ```
 
 Then add the following service provider to your `config/app.php`:

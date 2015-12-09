@@ -1,4 +1,4 @@
-## 3.0 — API — Authentication
+## 3.x — API — Authentication
 
 All requests to the API require user-based or token-based authentication.
 

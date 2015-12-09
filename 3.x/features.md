@@ -1,4 +1,4 @@
-## 3.0 — Features
+## 3.x — Features
 
 * RESTful API for all data querying and persistence (including a dispatcher for internal use)
 * Categories
@@ -12,5 +12,5 @@
 * Alert callback (to display success/validation messages using your preferred method)
 * Authentication and user integration via Laravel's auth interface and application user model
 * Permission handling via [Laravel Authorization](http://laravel.com/docs/5.1/authorization)
-* Multilingual (see [3.0 translations](https://github.com/Riari/laravel-forum/tree/3.0/translations) for a current list)
+* Multilingual (see [3.x translations](https://github.com/Riari/laravel-forum/tree/3.x/translations) for a current list)
 * Highly configurable
