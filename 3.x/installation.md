@@ -1,5 +1,10 @@
 ## 3.x — Installation
 
+### Requirements
+
++ PHP 5.4 or above
++ Laravel 5.1 or above
+
 ### Step 1: Install the package
 
 Install the package via composer:
