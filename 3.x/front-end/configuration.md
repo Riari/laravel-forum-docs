@@ -2,8 +2,10 @@
 
 The front-end uses a single config file (`forum.frontend`) containing two values:
 
+* `routes`: Enables/disables front-end routes.
+* `middleware`: The middleware to apply to the standard front-end routes.
 * `controllers`: An array of controller namespaces to use for the front-end routes.
-* `utility_class`: The namespace of the class to use for the `alert()`, `render()` and `route()` methods.
+* `utility_class`: The namespace of the class to use for the `alert()`, `render()`, `route()` `routes()` and `slugify()` methods.
 
 ### Views
 
