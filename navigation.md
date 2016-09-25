@@ -1,6 +1,6 @@
 * [Introduction](introduction.md)
 * 4.x
-  * [Introduction](4.x/introduction.md)
+  * [Installation](4.x/installation.md)
 * 3.x
   * [Features](3.x/features.md)
   * [Installation](3.x/installation.md)

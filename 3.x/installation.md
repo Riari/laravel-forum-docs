@@ -3,7 +3,7 @@
 ### Requirements
 
 + PHP 5.4 or above
-+ Laravel 5.1 or above (5.3 or above for package version ~4.0)
++ Laravel 5.1 or 5.2 (see version 4.x for Laravel 5.3 and above)
 
 ### Step 1: Install the package
 
@@ -11,12 +11,6 @@ Install the package via composer:
 
 ```
 composer require riari/laravel-forum:~3.0
-```
-
-If you're using Laravel 5.3 or above, you'll need version ~4.0:
-
-```
-composer require riari/laravel-forum:~4.0
 ```
 
 Then add the service provider to your `config/app.php`:
