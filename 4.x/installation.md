@@ -21,7 +21,7 @@ Then add the service provider to your `config/app.php`:
 Riari\Forum\ForumServiceProvider::class,
 ```
 
-Installing the [front-end](3.x/front-end/introduction.md) is recommended. Note that version 3 of the front-end is compatible with versions 3 and 4 of the core package.
+Installing the [front-end](3.x/front-end/introduction.md) is recommended. Note that version 1 of the front-end is compatible with versions 3 and 4 of the core package.
 
 ### Step 2: Publish the package files
 
