@@ -35,4 +35,4 @@ Run your migrations:
 
 `php artisan migrate`
 
-Assuming this succeeds, you can now define your forum categories in the `forum_categories` table.
+Assuming this succeeds, you can now define your forum categories in the `forum_categories` table, or authenticate with a user that has the `createCategories` ability (granted to all users by default) and use the 'Create category' panel displayed on the forum index (`/forum`).
