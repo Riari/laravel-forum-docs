@@ -1,31 +1,38 @@
 {
   "navigation" : [
     {
-      "Contents" : [
-        { "Introduction" : "introduction.md" },
-        { "Features" : "features.md" },
-        { "Installation" : "installation.md" },
-        { "Upgrading" : "upgrading.md" },
-        { "Configuration" : "configuration.md" },
-        { "Policies" : "policies.md" }
-      ],
-      "Front-end" : [
-        { "Introduction" : "front-end.introduction.md" },
-        { "Features" : "front-end.features.md" },
-        { "Installation" : "front-end.installation.md" },
-        { "Configuration" : "front-end.configuration.md" },
-        { "Management" : "front-end.management.md" },
-        { "Events" : "front-end.events.md" },
-        { "Helpers" : "front-end.helpers.md" }
-      ],
-      "API" : [
-        { "Introduction" : "api.introduction.md" },
-        { "Authentication" : "api.authentication.md" },
-        { "Categories" : "api.categories.md" },
-        { "Threads" : "api.threads.md" },
-        { "Posts" : "api.posts.md" },
-        { "Request Scopes" : "api.request-scopes.md" },
-        { "Internal Dispatching" : "api.internal-dispatching.md" }
+      "heading" : "Contents",
+      "items" : [
+        { "label" : "Introduction", "file" : "introduction.md" },
+        { "label" : "Features", "file" : "features.md" },
+        { "label" : "Installation", "file" : "installation.md" },
+        { "label" : "Upgrading", "file" : "upgrading.md" },
+        { "label" : "Configuration", "file" : "configuration.md" },
+        { "label" : "Policies", "file" : "policies.md" }
+      ]
+    },
+    {
+      "heading" : "Front-end",
+      "items" : [
+        { "label" : "Introduction", "file" : "front-end.introduction.md" },
+        { "label" : "Features", "file" : "front-end.features.md" },
+        { "label" : "Installation", "file" : "front-end.installation.md" },
+        { "label" : "Configuration", "file" : "front-end.configuration.md" },
+        { "label" : "Management", "file" : "front-end.management.md" },
+        { "label" : "Events", "file" : "front-end.events.md" },
+        { "label" : "Helpers", "file" : "front-end.helpers.md" }
+      ]
+    },
+    {
+      "heading" : "API",
+      "items" : [
+        { "label" : "Introduction", "file" : "api.introduction.md" },
+        { "label" : "Authentication", "file" : "api.authentication.md" },
+        { "label" : "Categories", "file" : "api.categories.md" },
+        { "label" : "Threads", "file" : "api.threads.md" },
+        { "label" : "Posts", "file" : "api.posts.md" },
+        { "label" : "Request Scopes", "file" : "api.request-scopes.md" },
+        { "label" : "Internal Dispatching", "file" : "api.internal-dispatching.md" }
       ]
     }
   ]
