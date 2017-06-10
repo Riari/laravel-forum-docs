@@ -1,30 +1,39 @@
 {
-  "navigation" : {
-    "Contents" : [
-      { "Introduction" : "introduction.md" },
-      { "Features" : "features.md" },
-      { "Installation" : "installation.md" },
-      { "Upgrading" : "upgrading.md" },
-      { "Configuration" : "configuration.md" },
-      { "Policies" : "policies.md" }
-    ],
-    "Front-end" : [
-      { "Introduction" : "front-end.introduction.md" },
-      { "Features" : "front-end.features.md" },
-      { "Installation" : "front-end.installation.md" },
-      { "Configuration" : "front-end.configuration.md" },
-      { "Management" : "front-end.management.md" },
-      { "Events" : "front-end.events.md" },
-      { "Helpers" : "front-end.helpers.md" }
-    ],
-    "API" : [
-      { "Introduction" : "api.introduction.md" },
-      { "Authentication" : "api.authentication.md" },
-      { "Categories" : "api.categories.md" },
-      { "Threads" : "api.threads.md" },
-      { "Posts" : "api.posts.md" },
-      { "Request Scopes" : "api.request-scopes.md" },
-      { "Internal Dispatching" : "api.internal-dispatching.md" }
-    ]
+  "navigation" : [
+    {
+      "heading" : "Contents",
+      "items" : [
+        { "Introduction" : "introduction.md" },
+        { "Features" : "features.md" },
+        { "Installation" : "installation.md" },
+        { "Upgrading" : "upgrading.md" },
+        { "Configuration" : "configuration.md" },
+        { "Policies" : "policies.md" }
+      ]
+    },
+    {
+      "heading" : "Front-end",
+      "items" : [
+        { "Introduction" : "front-end.introduction.md" },
+        { "Features" : "front-end.features.md" },
+        { "Installation" : "front-end.installation.md" },
+        { "Configuration" : "front-end.configuration.md" },
+        { "Management" : "front-end.management.md" },
+        { "Events" : "front-end.events.md" },
+        { "Helpers" : "front-end.helpers.md" }
+      ]
+    },
+    {
+      "heading" : "API",
+      "items" : [
+        { "Introduction" : "api.introduction.md" },
+        { "Authentication" : "api.authentication.md" },
+        { "Categories" : "api.categories.md" },
+        { "Threads" : "api.threads.md" },
+        { "Posts" : "api.posts.md" },
+        { "Request Scopes" : "api.request-scopes.md" },
+        { "Internal Dispatching" : "api.internal-dispatching.md" }
+      ]
+    }
   }
 }
