@@ -1,7 +1,12 @@
 {
   "navigation" : [
-    { "Introduction" : "introduction.md" },
-    { "Installation" : "installation.md" },
-    { "Configuration" : "configuration.md" }
+    {
+      "heading" : "Contents",
+      "items" : [
+        { "label" : "Introduction", "file" : "introduction.md" },
+        { "label" : "Installation", "file" : "installation.md" },
+        { "label" : "Configuration", "file" : "configuration.md" }
+      ]
+    }
   ]
 }
