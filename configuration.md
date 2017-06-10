@@ -1,4 +1,4 @@
-## 1.x — Configuration
+## Configuration
 
 There are 4 configuration files in this version; **integration**, **permissions**, **preferences** and **routes**. Run `php artisan config:publish forum` to publish them to `app/config/packages/forum`, where you can make any necessary edits.
 

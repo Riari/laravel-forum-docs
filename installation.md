@@ -1,4 +1,4 @@
-## 1.x — Installation
+## Installation
 
 ### Compatibility
 
