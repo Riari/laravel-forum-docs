@@ -1,4 +1,4 @@
-## 3.x — Upgrading
+## Upgrading
 
 ### From 2.x
 

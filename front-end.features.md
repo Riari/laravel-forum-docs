@@ -1,4 +1,4 @@
-## 3.x — Front-end — Features
+## Front-end — Features
 
 * Read/unread/updated thread status
 * Default views written with [Bootstrap](http://getbootstrap.com/) compatibility in mind

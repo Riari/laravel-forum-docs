@@ -1,4 +1,4 @@
-## 3.x — API — Posts
+## API — Posts
 
 ### Index
 

@@ -1,4 +1,4 @@
-## 3.x — Configuration
+## Configuration
 
 ### Server
 

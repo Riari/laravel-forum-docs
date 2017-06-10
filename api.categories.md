@@ -1,4 +1,4 @@
-## 3.x — API — Categories
+## API — Categories
 
 ### Index
 
