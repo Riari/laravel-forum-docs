@@ -1,4 +1,4 @@
-## 3.x — Front-end — Configuration
+## Front-end — Configuration
 
 The front-end uses a single config file (`forum.frontend`) containing two values:
 

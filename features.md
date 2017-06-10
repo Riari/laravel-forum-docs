@@ -1,4 +1,4 @@
-## 3.x — Features
+## Features
 
 * RESTful API for all data querying and persistence (including a dispatcher for internal use)
 * Categories

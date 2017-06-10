@@ -1,4 +1,4 @@
-## 3.x — API — Threads
+## API — Threads
 
 ### Index
 

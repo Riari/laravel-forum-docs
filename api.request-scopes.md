@@ -1,4 +1,4 @@
-## 3.x — API — Request Scopes
+## API — Request Scopes
 
 Request scopes take advantage of regular [Eloquent Query Scopes](http://laravel.com/docs/5.1/eloquent#query-scopes) to provide an easy way of adjusting API requests.
 

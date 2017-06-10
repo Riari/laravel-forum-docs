@@ -1,4 +1,4 @@
-## 3.x — API — Internal Dispatching
+## API — Internal Dispatching
 
 [laravel-forum 3.x](https://github.com/Riari/laravel-forum) enables dispatching requests to the API from any part of your application. The dispatcher consists of two parts; the dispatcher class itself and a 'receiver' interface to ensure proper response handling.
 

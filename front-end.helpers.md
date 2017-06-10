@@ -1,4 +1,4 @@
-## 3.x — Front-end — Helpers
+## Front-end — Helpers
 
 The front-end makes use of a utility class (specified in the `forum.frontend.utility_class` config value) to facilitate a few common actions. This is automatically aliased to `Forum` for ease of use in views.
 
