@@ -1,4 +1,4 @@
-## 2.x — Installation
+## Installation
 
 ### Step 1: Install the package
 
