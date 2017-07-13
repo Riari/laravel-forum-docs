@@ -1,6 +1,6 @@
 ## Installation
 
-Version 4 is compatible with Laravel 5.3 and above. Features, functionality and usage are identical to version 3, so please refer to the 3.x documentation after installation.
+Version 4 is compatible with Laravel 5.3 and above. Features, functionality and usage are identical to version 3.
 
 ### Requirements
 
